@@ -1,0 +1,11 @@
+2025/04/21 01:45:31 Starting with 4 workers
+2025/04/21 01:45:31 Worker 3 processed Image_4.jpg in 500.2532ms
+2025/04/21 01:45:31 Worker 4 processed Image_1.jpg in 500.2532ms
+2025/04/21 01:45:31 Worker 1 processed Image_2.jpg in 500.2532ms
+2025/04/21 01:45:31 Worker 2 processed Image_3.jpg in 500.2532ms
+2025/04/21 01:45:32 Worker 4 processed Image_6.jpg in 501.0209ms
+2025/04/21 01:45:32 Worker 1 processed Image_7.jpg in 501.0209ms
+2025/04/21 01:45:32 Worker 3 processed Image_5.jpg in 501.0209ms
+2025/04/21 01:45:32 Worker 2 processed Image_8.jpg in 501.0209ms
+2025/04/21 01:45:32 Worker 4 processed Image_9.jpg in 500.7545ms
+2025/04/21 01:45:32 All tasks completed.

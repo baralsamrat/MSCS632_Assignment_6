@@ -7,7 +7,7 @@ public class Worker implements Runnable {
     private final Logger logger;
 
     public Worker(int id, BlockingQueue<Task> taskQueue, Logger logger) {
-        this.id = id;
+        this.id = id;   
         this.taskQueue = taskQueue;
         this.logger = logger;
     }
@@ -18,7 +18,7 @@ public class Worker implements Runnable {
             while (true) {
                 Task task = taskQueue.poll();
                 if (task == null) {
-                    break;  // No more tasks
+                    break;
                 }
                 long startTime = System.currentTimeMillis();
                 simulateProcessing(task);
@@ -32,9 +32,9 @@ public class Worker implements Runnable {
 
     private void simulateProcessing(Task task) {
         try {
-            Thread.sleep(500); // Simulate processing delay
+            Thread.sleep(500);
         } catch (InterruptedException e) {
-            Thread.currentThread().interrupt(); // Reset interruption status
+            Thread.currentThread().interrupt();
         }
     }
 }

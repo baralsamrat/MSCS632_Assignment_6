@@ -8,7 +8,7 @@ public class Main {
     private static final int DEFAULT_TASK_COUNT = 9;
 
     public static void main(String[] args) {
-        int numWorkers = Runtime.getRuntime().availableProcessors();  // Default to CPU cores
+        int numWorkers = Runtime.getRuntime().availableProcessors();
 
         if (args.length > 0) {
             try {
@@ -51,10 +51,10 @@ public class Main {
     private static Logger setupLogger() {
         Logger logger = Logger.getLogger("DataProcessorLogger");
         try {
-            FileHandler fileHandler = new FileHandler("output.log", true);
+            FileHandler fileHandler = new FileHandler("output_java.log", true);
             fileHandler.setFormatter(new SimpleFormatter());
             logger.addHandler(fileHandler);
-            logger.setUseParentHandlers(false); // Disable console logging
+            logger.setUseParentHandlers(false);
         } catch (IOException e) {
             System.err.println("Failed to set up logger: " + e.getMessage());
             System.exit(1);
