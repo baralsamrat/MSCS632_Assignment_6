@@ -12,7 +12,8 @@
 ---
 
 ## Screenshots
-![1](/screenshots/Capture.PNG)
+![1](/screenshots/Capture-1.PNG)
+![2](/screenshots/Capture-2.PNG)
 
 ## Overview
 
