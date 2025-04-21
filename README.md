@@ -12,8 +12,12 @@
 ---
 
 ## Screenshots
-![1](/screenshots/Capture-1.PNG)
-![2](/screenshots/Capture-2.PNG)
+
+[Capture-1.PNG ![1](/screenshots/Capture-1.PNG) ](https://github.com/baralsamrat/MSCS632_Assignment_6/blob/main/screenshots/Capture-1.PNG)
+
+[Capture-2.PNG ![2](/screenshots/Capture-2.PNG) ](https://github.com/baralsamrat/MSCS632_Assignment_6/blob/main/screenshots/Capture-2.PNG)
+
+[Capture-3.PNG ![3](/screenshots/Capture-3.PNG)](https://github.com/baralsamrat/MSCS632_Assignment_6/blob/main/screenshots/Capture-3.PNG)
 
 ## Overview
 

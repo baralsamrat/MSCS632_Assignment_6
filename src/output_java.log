@@ -1,20 +1,20 @@
-Apr 21, 2025 1:45:34 AM Worker run
-INFO: Worker 1 processed Image_1.jpg in 501 ms
-Apr 21, 2025 1:45:34 AM Worker run
-INFO: Worker 2 processed Image_3.jpg in 501 ms
-Apr 21, 2025 1:45:34 AM Worker run
-INFO: Worker 4 processed Image_4.jpg in 500 ms
-Apr 21, 2025 1:45:34 AM Worker run
-INFO: Worker 3 processed Image_2.jpg in 501 ms
-Apr 21, 2025 1:45:35 AM Worker run
-INFO: Worker 2 processed Image_6.jpg in 500 ms
-Apr 21, 2025 1:45:35 AM Worker run
-INFO: Worker 3 processed Image_8.jpg in 502 ms
-Apr 21, 2025 1:45:35 AM Worker run
-INFO: Worker 4 processed Image_7.jpg in 502 ms
-Apr 21, 2025 1:45:35 AM Worker run
+Apr 21, 2025 1:50:00 AM Worker run
+INFO: Worker 1 processed Image_2.jpg in 501 ms
+Apr 21, 2025 1:50:00 AM Worker run
+INFO: Worker 4 processed Image_4.jpg in 501 ms
+Apr 21, 2025 1:50:00 AM Worker run
+INFO: Worker 3 processed Image_3.jpg in 501 ms
+Apr 21, 2025 1:50:00 AM Worker run
+INFO: Worker 2 processed Image_1.jpg in 502 ms
+Apr 21, 2025 1:50:01 AM Worker run
 INFO: Worker 1 processed Image_5.jpg in 501 ms
-Apr 21, 2025 1:45:35 AM Worker run
-INFO: Worker 2 processed Image_9.jpg in 501 ms
-Apr 21, 2025 1:45:35 AM Main main
+Apr 21, 2025 1:50:01 AM Worker run
+INFO: Worker 2 processed Image_8.jpg in 502 ms
+Apr 21, 2025 1:50:01 AM Worker run
+INFO: Worker 4 processed Image_6.jpg in 502 ms
+Apr 21, 2025 1:50:01 AM Worker run
+INFO: Worker 3 processed Image_7.jpg in 500 ms
+Apr 21, 2025 1:50:01 AM Worker run
+INFO: Worker 1 processed Image_9.jpg in 501 ms
+Apr 21, 2025 1:50:01 AM Main main
 INFO: All tasks completed.
