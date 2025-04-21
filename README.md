@@ -8,7 +8,7 @@
 
  The GitHub repository, [https://github.com/baralsamrat/MSCS632_Assignment_6](https://github.com/baralsamrat/MSCS632_Assignment_6)
 
-#### REPORT : [ - :notebook_with_decorative_cover: PDF ](/reports.pdf)
+#### REPORT : [ - :notebook_with_decorative_cover: ](/reports.pdf) [ PDF ](https://github.com/baralsamrat/MSCS632_Assignment_6/blob/main/reports.pdf) 
 ---
 
 ## Screenshots
